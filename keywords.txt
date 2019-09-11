@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map For SimpleExpressions
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+music	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init KEYWORD2
+initBuzzer KEYWORD2
+asabranca KEYWORD2
+babyelephantwalk KEYWORD2
+bloodytears KEYWORD2
+brahmslullaby KEYWORD2
+cannonind KEYWORD2
+cantinaband KEYWORD2
+doom KEYWORD2
+furelise KEYWORD2
+gameofthrones KEYWORD2
+greenhill KEYWORD2
+greensleeves KEYWORD2
+happybirthday KEYWORD2
+harrypotter KEYWORD2
+imperialmarch KEYWORD2
+jigglypuffsong KEYWORD2
+keyboardcat KEYWORD2
+merrychristmas KEYWORD2
+miichannel KEYWORD2
+minuetg KEYWORD2
+nevergonnagiveyouup KEYWORD2
+odetojoy KEYWORD2
+pinkpanther KEYWORD2
+princeigor KEYWORD2
+professorlayton KEYWORD2
+pulodagaita KEYWORD2
+silentnight KEYWORD2
+songofstorms KEYWORD2
+startrekintro KEYWORD2
+starwars KEYWORD2
+supermariobros KEYWORD2
+takeonme KEYWORD2
+tetris KEYWORD2
+thegodfather KEYWORD2
+thelick KEYWORD2
+thelionsleepstonight KEYWORD2
+vampirekiller KEYWORD2
+zeldaslullaby KEYWORD2
+zeldatheme KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
